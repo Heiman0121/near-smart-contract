@@ -1,0 +1,10 @@
+/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/deps/borsh_schema_derive_internal-2172204794ca26f8.rmeta: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/deps/libborsh_schema_derive_internal-2172204794ca26f8.rlib: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/deps/borsh_schema_derive_internal-2172204794ca26f8.d: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs
+
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/helpers.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/enum_schema.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.2/src/struct_schema.rs:

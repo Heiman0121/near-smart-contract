@@ -1,0 +1,29 @@
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe0.probe0.6ca9b182-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe0.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe1.probe1.e5d11323-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe1.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+warning: autocfg could not probe for `std`
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe2.probe2.7e2101f7-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe2.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe3.probe3.ee7ecd8d-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe3.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe4.probe4.6c171aae-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe4.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe5.probe5.5f75b08d-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe5.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe6.probe6.2f02fb0d-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-traits-89fcd74c92840390/out/probe6.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+

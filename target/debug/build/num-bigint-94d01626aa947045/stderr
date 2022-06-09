@@ -1,0 +1,31 @@
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe0.probe0.6ca9b182-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe0.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe1.probe1.e5d11323-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe1.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+warning: autocfg could not probe for `std`
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe2.probe2.7e2101f7-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/num-bigint-94d01626aa947045/out/probe2.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
+error[E0433]: failed to resolve: maybe a missing crate `core`?
+ --> <anon>:1:9
+  |
+1 | pub use core::convert::TryFrom;
+  |         ^^^^ maybe a missing crate `core`?
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0433`.
+error[E0433]: failed to resolve: maybe a missing crate `core`?
+ --> <anon>:1:9
+  |
+1 | pub use core::arch::x86_64::_addcarry_u64;
+  |         ^^^^ maybe a missing crate `core`?
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0433`.

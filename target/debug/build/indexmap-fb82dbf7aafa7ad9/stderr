@@ -1,0 +1,4 @@
+error: could not copy "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/indexmap-fb82dbf7aafa7ad9/out/probe0.probe0.6ca9b182-cgu.0.rcgu.ll" to "/home/kali/Documents/NFT base/rust-counter-tutorial/target/debug/build/indexmap-fb82dbf7aafa7ad9/out/probe0.ll": Operation not permitted (os error 1)
+
+error: aborting due to previous error
+
